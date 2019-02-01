@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="Rewards Converter">
+    <menu>
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_top">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_luckydraw"
+            android:title="Lucky Draw"
+            android:icon="@drawable/ic_attach_money_black_24dp"/>
+        <item
+            android:id="@+id/nav_how_to_convert"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="How To Convert" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_report_problem_black_24dp"
+            android:title="Query" />
+
+
+
+    </group>
+    </menu>
+    </item>
+
+
+    <item
+        android:title="About App">
+        <menu>
+            <group
+                android:id="@+id/menu_bottom">
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/ic_rate_review_black_24dp"
+                    android:title="Rate And Review" />
+
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+
+                <item
+                    android:id="@+id/nav_update"
+                    android:title="Update"
+                    android:icon="@drawable/ic_system_update_black_24dp"/>
+
+
+
+            </group>
+        </menu>
+    </item>
+
+
+
+
+        <!--<item-->
+            <!--android:title="On Users Demand">-->
+    <!--<menu>-->
+        <!--<group-->
+        <!--android:id="@+id/menu_second"-->
+        <!--android:checkableBehavior="single"-->
+        <!--android:menuCategory="container">-->
+            <!--<item-->
+                <!--android:id="@+id/nav_learn"-->
+                <!--android:title="Learn App Development"-->
+                <!--android:icon="@drawable/ic_laptop_chromebook_black_24dp" />-->
+        <!--</group>-->
+    <!--</menu>-->
+        <!--</item>-->
+
+
+
+
+    <group
+        android:id="@+id/menu_third"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_privacy"
+            android:title="Privacy Policy"/>
+
+        <item
+            android:id="@+id/nav_terms"
+            android:title="Terms And Conditions"/>
+    </group>
+</menu>
+

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "854203574639",
+    "firebase_url": "https://rewards-converter-6b2a1.firebaseio.com",
+    "project_id": "rewards-converter-6b2a1",
+    "storage_bucket": "rewards-converter-6b2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854203574639:android:f77c478c5be9aecd",
+        "android_client_info": {
+          "package_name": "com.divesh.rewardsconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854203574639-h896e002ejm3hpg7to68saindi9h3ca5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIMiTkKGLbj9x-ulZO9PBH02dDyywKTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

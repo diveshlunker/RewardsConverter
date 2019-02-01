@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Rewards Converter</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome!</string>
+    <string name="slide_1_desc">The simplest and fastest platform to exchange Real Money for Google Rewards!</string>
+
+    <string name="slide_2_title">No Login/Signup Required</string>
+    <string name="slide_2_desc">You convert your amount in safe mode unlike other apps!</string>
+
+    <string name="slide_3_title">Celebrate</string>
+    <string name="slide_3_desc">You get 60% converted amount, Maximum among other apps!</string>
+
+    <string name="slide_4_title">Daily Luck Draws</string>
+    <string name="slide_4_desc">Get Vouchers Or Amount Ranging From Rs.50-500 Depending On Your Luck. Daily Three Lucky Users Get Paid.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <!--<string name="action_settings">Settings</string>-->
+    <string name="logo">TODO</string>
+    <string name="wait">wait</string>
+    <string name="title">title</string>
+
+    <string name="SpinnerName">Choose Your Amount</string>
+
+    <string-array name="AmountArray">
+        <item>Rs. 10</item>
+        <item>Rs. 20</item>
+        <item>Rs. 50</item>
+        <item>Rs. 100</item>
+        <item>Rs. 200</item>
+        <item>Rs. 300</item>
+        <item>Rs. 400</item>
+        <item>Rs. 500</item>
+        <item>Rs. 1000</item>
+        <item>Rs. 1250</item>
+        <item>Rs. 1500</item>
+        <item>Rs. 2000</item>
+        <item>Rs. 2500</item>
+        <item>Rs. 3000</item>
+        <item>Rs. 5000</item>
+        <item>Rs. 10000</item>
+    </string-array>
+    <string-array name="PlatformArray">
+        <item>Paytm</item>
+        <item>PayPal</item>
+        <item>Google Pay(Tez)</item>
+        <item>Recharge</item>
+    </string-array>
+
+    <string name="PaymentOptions">Choose Your Payment Portal</string>
+    <string name="divesh_jain">Divesh Jain</string>
+    <string name="developer">Developer</string>
+    <string name="aman_jain">Aman Jain</string>
+    <string name="designer">Designer</string>
+    <string name="wish_to_join_our_team_contact_us_via_query_section">Wish to join our team? Contact Us via query section.</string>
+
+
+    <string name="paytm">Paytm</string>
+    <string name="google_pay">Google Pay(Tez)</string>
+    <string name="recharge">Recharge</string>
+    <string name="fifteen_days">15 Days</string>
+    <string name="Ten_days">10 Days</string>
+    <string name="Five_days">5 Days</string>
+    <string name="paypal">PayPal</string>
+
+    <string name="spinneramount">Select Amount</string>
+
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_id">ca-app-pub-7403621248230876~6977677758</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.divesh.rewardsconverter.payment"
+    android:background="#f2dede">
+
+    <!--<TextView-->
+        <!--android:id="@+id/head"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="5dp"-->
+        <!--android:layout_marginEnd="32dp"-->
+        <!--android:layout_marginStart="33dp"-->
+        <!--android:layout_marginTop="5dp"-->
+        <!--android:text="Choose Your Plan"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textAppearance="@style/TextAppearance.AppCompat"-->
+        <!--android:textSize="40sp"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/body"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent"-->
+        <!--android:layout_marginRight="32dp"-->
+        <!--android:layout_marginLeft="33dp" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/body"-->
+        <!--android:layout_width="292dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="15dp"-->
+        <!--android:layout_marginEnd="46dp"-->
+        <!--android:layout_marginStart="46dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:text="After Completing Payment, Please Wait Until You Are Redirected To Payment Success Page"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textAllCaps="false"-->
+        <!--android:textAppearance="@style/TextAppearance.AppCompat"-->
+        <!--android:textSize="20sp"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/card10"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintHorizontal_bias="0.0"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/head" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/card10"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginEnd="44dp"-->
+        <!--android:layout_marginStart="30dp"-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:background="@null"-->
+        <!--android:src="@drawable/card10"-->
+        <!--app:layout_constraintEnd_toStartOf="@+id/card50"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/body"-->
+        <!--android:layout_marginLeft="30dp"-->
+        <!--android:layout_marginRight="44dp" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/card50"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginEnd="30dp"-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:background="@null"-->
+        <!--android:src="@drawable/card50"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toEndOf="@+id/card10"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/body"-->
+        <!--android:layout_marginRight="30dp" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/card100"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginEnd="44dp"-->
+        <!--android:layout_marginStart="30dp"-->
+        <!--android:layout_marginTop="3dp"-->
+        <!--android:background="@null"-->
+        <!--android:src="@drawable/card100"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/card500"-->
+        <!--app:layout_constraintEnd_toStartOf="@+id/card250"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/card10"-->
+        <!--android:layout_marginRight="44dp"-->
+        <!--android:layout_marginLeft="30dp" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/card250"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginEnd="30dp"-->
+        <!--android:layout_marginTop="3dp"-->
+        <!--android:background="@null"-->
+        <!--android:src="@drawable/card250"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/card500"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toEndOf="@+id/card100"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/card50"-->
+        <!--android:layout_marginRight="30dp" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/card500"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="93dp"-->
+        <!--android:layout_marginEnd="105dp"-->
+        <!--android:layout_marginStart="105dp"-->
+        <!--android:layout_marginTop="3dp"-->
+        <!--android:background="@null"-->
+        <!--android:src="@drawable/card500"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/card100" />-->
+
+</android.support.constraint.ConstraintLayout>
