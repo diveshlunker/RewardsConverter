@@ -1,6 +1,6 @@
-Welcome To Rewards Converter
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiveshlunker%2FRewardsConverter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]()
 
-This app is basically built to cocnvert the google opinion rewards to real time cash so that people can use their useless credits and get real cash via 
+This app is built to convert the google opinion rewards to real time cash so that people can use their useless credits and get real cash via 
 Paytm/PayPal/Google Pay
 
 This app was on playstore successfully for 3 months serving 9.5k people.
